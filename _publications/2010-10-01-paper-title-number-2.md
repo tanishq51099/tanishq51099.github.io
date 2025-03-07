@@ -7,7 +7,7 @@ excerpt: 'Humans have the ability to portray different expressions contrary to t
 date: 2022-11-12
 venue: 'Measurement: Sensors'
 slidesurl: 
-paperurl: 'http://tanishq51099.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S266591742200188X'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
