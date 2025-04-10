@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Data Scientist"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Global Observatory for Ecosystem Services, Michigan State University"
+date: 2024-06-05
+location: "East Lansing, MI, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
