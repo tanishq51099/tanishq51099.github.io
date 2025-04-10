@@ -1,7 +1,6 @@
 ---
 title: "Generative Question Answering with Retrieval Augmented Generation (RAG)"
-excerpt: "Our project aims to build an intelligent question-answering system by integrating retrieval-based search with generative AI models, 
-leveraging the power of NLP and deep learning to deliver accurate and context-aware responses.<br/><a href="https://github.com/tanishq51099/Generative-Question-Answering.git">(Repo Link)</a>"
+excerpt: "Our project aims to build an intelligent question-answering system by integrating retrieval-based search with generative AI models, leveraging the power of NLP and deep learning to deliver accurate and context-aware responses.<br/><a href="https://github.com/tanishq51099/Generative-Question-Answering.git">(Repo Link)</a>"
 collection: portfolio
 ---
 
