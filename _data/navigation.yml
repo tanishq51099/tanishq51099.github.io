@@ -11,16 +11,16 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Experience"
+    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: /files/Resume_Tanishq_2.pdf
     
   # - title: "Guide"
