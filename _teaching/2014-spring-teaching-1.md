@@ -1,9 +1,9 @@
 ---
 title: "Data Scientist"
 collection: teaching
-type:
+type: "Global Observatory for Ecosystem Services"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Global Observatory for Ecosystem Services, Michigan State University"
+venue: "Michigan State University"
 date: 2024-06-05
 location: "East Lansing, MI, USA"
 ---
