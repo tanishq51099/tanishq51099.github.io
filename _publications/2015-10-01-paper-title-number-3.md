@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Measuring the extent of trees outside of forests: a nature-based solution for net zero emissions in South Asia"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'To reduce emissions of carbon and other greenhouse gases on a pathway that does not overshoot and keeps global average temperature increase to below the 1.5 ◦C target stipulated by the Paris Agreement, it shall be necessary to rely on nature-based solutions with atmospheric removals. Without activities that create removals by carbon sequestration it will not be possible to balance residual emissions. Policies that focus solely on reducing deforestation will only lower future emissions. On the other hand, activities that include regeneration or regrowth of tree biomass can be used to create net-zero emissions through carbon sequestration and atmospheric removals now. New methods demonstrated here using high resolution remote sensing and deep machine learning enable analyses of carbon stocks of individual trees outside of forests (TOF). Allometric scaling models based on tree crowns at very high spatial resolution (<0.5 m) can map carbon stocks across large landscapes of millions of trees outside of forests. In addition to carbon removals, these landscapes are also important to livelihoods for millions of rural farmers and most TOF activities have the capacity to bring more countries into climate mitigation while also providing adaptation benefits. Here were present a multi-resolution, multi-sensor method that provides a way to measure carbon at the individual tree level in TOF landscapes in India. The results of this analysis show the effectiveness of mapping trees outside of forest across a range of satellite data resolution from 0.5 m to 10 m and for measuring carbon across large landscapes at the individual tree scale.'
+date: 2024-10-22
+venue: 'Environmental Research Letters in IOP Science'
+slidesurl:
+paperurl: 'https://doi.org/10.1088/1748-9326/ad845d'
+citation: 'David L Skole et al 2024 Environ. Res. Lett. 19 114092'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+To reduce emissions of carbon and other greenhouse gases on a pathway that does not overshoot and keeps global average temperature increase to below the 1.5 ◦C target stipulated by the Paris Agreement, it shall be necessary to rely on nature-based solutions with atmospheric removals. Without activities that create removals by carbon sequestration it will not be possible to balance residual emissions. Policies that focus solely on reducing deforestation will only lower future emissions. On the other hand, activities that include regeneration or regrowth of tree biomass can be used to create net-zero emissions through carbon sequestration and atmospheric removals now. New methods demonstrated here using high resolution remote sensing and deep machine learning enable analyses of carbon stocks of individual trees outside of forests (TOF). Allometric scaling models based on tree crowns at very high spatial resolution (<0.5 m) can map carbon stocks across large landscapes of millions of trees outside of forests. In addition to carbon removals, these landscapes are also important to livelihoods for millions of rural farmers and most TOF activities have the capacity to bring more countries into climate mitigation while also providing adaptation benefits. Here were present a multi-resolution, multi-sensor method that provides a way to measure carbon at the individual tree level in TOF landscapes in India. The results of this analysis show the effectiveness of mapping trees outside of forest across a range of satellite data resolution from 0.5 m to 10 m and for measuring carbon across large landscapes at the individual tree scale.
