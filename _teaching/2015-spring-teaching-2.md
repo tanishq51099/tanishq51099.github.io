@@ -1,8 +1,9 @@
 ---
 title: "Student Researcher"
 collection: teaching
+type: "HEEDS Design Space Exploration"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Siemens"
+venue: "Siemens Digital Industries Software"
 date: 2023-08-30
 location: "East Lansing, MI, USA"
 ---
