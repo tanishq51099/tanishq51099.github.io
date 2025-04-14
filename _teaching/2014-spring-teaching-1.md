@@ -17,12 +17,3 @@ location: "East Lansing, MI, USA"
 •	Developed automated data pipelines for or preprocessing satellite imagery, reducing manual effort by 40% and accelerating tree mapping.
 
 •	Developed interactive Tableau dashboards to visualize geospatial data, enabling intuitive exploration of tree cover area output distribution and carbon sequestration potential.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
